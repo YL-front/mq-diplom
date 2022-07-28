@@ -128,6 +128,9 @@ html {
   .trends {
       display: flex;
   }
+  .trends-title {
+    text-transform: uppercase;
+  }
   
   /* main */
   .base-block {
@@ -328,7 +331,7 @@ html {
     width: 50px;
     padding: 0;
     
-    background-image: url("images/search.svg");
+    background-image: url("svg/search.svg");
       vertical-align: middle;
       background-repeat: no-repeat;
       background-position: center center;
@@ -550,27 +553,27 @@ html {
   
   .socials-link-facebook {
       background-color: #f4f7f6;	
-      background-image: url("images/social/002-facebook-logo.svg");
+      background-image: url("svg/002-facebook-logo.svg");
   }
   
   .socials-link-twitter {
-      background-image: url("images/social/004-twitter.svg");
+      background-image: url("svg/004-twitter.svg");
       background-color: #f4f7f6;
   }
   
   .socials-link-pinterest {
-      background-image: url("images/social/001-pinterest.svg");
+      background-image: url("svg/001-pinterest.svg");
       background-color: #f4f7f6;
   }
   
   .socials-link-instagram {
-      background-image: url("images/social/005-instagram.svg");
+      background-image: url("svg/005-instagram.svg");
       background-color: #f4f7f6;
   }
   
   .socials-link-tumbler {
       background-color: #f4f7f6;	
-      background-image: url("images/social/003-tumblr.svg");
+      background-image: url("svg/003-tumblr.svg");
   }
   
   .socials-link-text {
